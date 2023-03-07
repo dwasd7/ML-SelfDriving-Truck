@@ -2,6 +2,7 @@
 Neural Network Model
 
 ![image](https://user-images.githubusercontent.com/84002353/223563191-dc2a06b1-eb07-4eda-bfd2-c788faf77ad7.png)
+
 MAP WITH HOLES ON THE ROAD TEST!!
 
 ![image](https://user-images.githubusercontent.com/84002353/223555732-de063d86-ca0b-4c8e-bfd4-41b338144f40.png)
