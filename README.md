@@ -8,6 +8,8 @@ Neural Network Model
 ![image](https://user-images.githubusercontent.com/84002353/223555304-cf871c83-9a97-4c7f-846b-876cb1dcf052.png)
 ![image](https://user-images.githubusercontent.com/84002353/223555365-855173ce-7a6c-434b-8b12-daf14e1cab02.png)
 ![image](https://user-images.githubusercontent.com/84002353/223555422-fd4b15ca-dc04-4cda-bc40-24a48ec0476c.png)
+
+
 Influenced By: Cheesy AI
 
 
