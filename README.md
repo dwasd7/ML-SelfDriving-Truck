@@ -10,7 +10,7 @@ Neural Network Model
 ![image](https://user-images.githubusercontent.com/84002353/223555422-fd4b15ca-dc04-4cda-bc40-24a48ec0476c.png)
 
 
-Influenced By: Cheesy AI
+Inspired By: Cheesy AI
 
 
 
